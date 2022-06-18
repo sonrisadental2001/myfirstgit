@@ -1,0 +1,6 @@
+// Tham khao
+https://medium.com/@slayer9191/build-your-own-facebook-messenger-bot-with-node-js-1f2ec0165d2
+
+// Git hub
+https://www.thanhlongdev.com/huong-dan-su-dung-git-va-cach-push-project-len-github/
+https://stackoverflow.com/questions/1221840/remote-origin-already-exists-on-git-push-to-a-new-repository
